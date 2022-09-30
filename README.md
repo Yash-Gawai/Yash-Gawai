@@ -48,7 +48,7 @@ Upcoming on my skill list:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yash-Gawai&theme=blueberry_duo&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![](https://raw.githubusercontent.com/Yash-Gawai/Yash-Gawai/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Yash-Gawai/Yash-Gawai/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Yash-Gawai/Yash-Gawai/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
